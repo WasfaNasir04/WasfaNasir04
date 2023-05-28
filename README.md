@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasfa Nasir</h1>
-<h3 align="center">A passionate Web developer and learner.</h3>
+<h3 align="center">A passionate developer and learner.</h3>
 <img align="right" alt="Coding" width="100" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasfanasir04&label=Profile%20views&color=0e75b6&style=flat" alt="wasfanasir04" /> </p>
