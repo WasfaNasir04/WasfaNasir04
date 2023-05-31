@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently **a 4th year student at University of Engineering and Technology.**
 
-- 🌱 I’m currently learning **Mobile App development (in Flutter, Dart), Website testing and UX/UI designing.)**
+- 🌱 I’m currently learning **Mobile App development (in Flutter, Dart), Website testing and MERN stack development**
 
-- 🤝I acquire a knowledge of **programming languages like C++, Java, Python and C#, database in MySQL, Web development**
+- 🤝I acquire a knowledge of **programming languages like C++, Java, Python and C#, database in MySQL, and Frontend development**
 
 - 📫 You can reach me @**wasfanasir4@gmail.com**
 
