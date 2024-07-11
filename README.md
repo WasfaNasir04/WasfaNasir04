@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasfanasir04&label=Profile%20views&color=0e75b6&style=flat" alt="wasfanasir04" /> </p>
 
-- 🔭 I’m currently **a 4th year student at University of Engineering and Technology.**
+- 🔭 I’m currently **a CS Graduate student at University from Engineering and Technology.**
 
-- 🌱 I’m currently learning **Mobile App development (in Flutter, Dart), Website testing and MERN stack development**
+- 🌱 I’m currently learning **Front and Backend Developer, Frontend in React and Backend in JAVA, PostgreSQL. Website testing and MERN stack development**
 
-- 🤝I acquire a knowledge of **programming languages like C++, Java, Python and C#, database in MySQL, and Frontend development**
+- 🤝I acquire a knowledge of **programming languages like C++, Java, Python and C#, database in MySQL, JAVA, SpringBoot, Postman**
 
 - 📫 You can reach me @**wasfanasir4@gmail.com**
 
