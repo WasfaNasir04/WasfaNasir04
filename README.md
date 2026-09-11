@@ -76,15 +76,6 @@ https://appointment-ai-frontend.onrender.com
 **Repository:**  
 https://github.com/WasfaNasir04/appointment-booking-ai-assessment
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasfanasir04&show_icons=true&locale=en" alt="Wasfa's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasfanasir04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 ### 📫 Let's Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/wasfa-nasir/
