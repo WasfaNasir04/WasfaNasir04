@@ -85,7 +85,6 @@ https://github.com/WasfaNasir04/appointment-booking-ai-assessment
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasfanasir04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
 ### 📫 Let's Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/wasfa-nasir/
